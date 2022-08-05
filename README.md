@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/view/anime-hibike-euphonium-asuka-tanaka-farewell-smile-gif-16488971">
+  <img src="https://user-images.githubusercontent.com/69864986/180283239-f215cd9c-9c3c-42c6-b380-7f84754ee365.gif">
 </p>
 
 ## Hai 👋, Welcome in my Profile
