@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/69864986/180283239-f215cd9c-9c3c-42c6-b380-7f84754ee365.gif">
+  <img src="https://static.wikia.nocookie.net/all-worlds-alliance/images/6/6d/Akame.png/revision/latest?cb=20180603095456">
 </p>
 
 ## Hai 👋, Welcome in my Profile
@@ -9,7 +9,7 @@ myself = {
   :name => 'Valentino Eka',
   :nickname => 'Fiyu',
   :pronouns => 'He/Him',
-  :skills => ['HTML5', 'CSS3', 'JS', 'React.js' , 'Bootstrap', 'PHP'],
+  :skills => ['HTML5', 'CSS3', 'JS', 'React.js' , 'Bootstrap'],
   :architecture => ['Monolithic', 'Microservice'],
   :funfact => 'Little Programmer 😅'
 }
