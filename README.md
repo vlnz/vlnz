@@ -9,9 +9,9 @@ myself = {
   :name => 'Valentino Eka',
   :nickname => 'Fiyu',
   :pronouns => 'He/Him',
-  :skills => ['HTML5', 'CSS3', 'JS', 'React.js' , 'Bootstrap'],
+  :skills => ['HTML5', 'CSS3', 'JS', 'React.js' , 'Bootstrap', 'Python', 'PHP', 'Three.js'],
   :architecture => ['Monolithic', 'Microservice'],
-  :funfact => 'Little Programmer 😅'
+  :funfact => 'Like KFC 🐥',
 }
 puts myself[:skills]
 ```
