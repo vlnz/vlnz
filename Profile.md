@@ -9,7 +9,7 @@ myself = {
   :name => 'Valentino Eka',
   :nickname => 'Fiyu',
   :pronouns => 'He/Him',
-  :skills => ['HTML5', 'CSS3', 'JS', 'React.js' , 'Bootstrap', 'Python', 'PHP', 'Three.js'],
+  :skills => ['HTML5', 'CSS3', 'JS', 'React.js', 'TypeScript' , 'Bootstrap', 'Python', 'PHP', 'Three.js'],
   :funfact => 'Like cat 🐈',
 }
 puts myself[:skills]
