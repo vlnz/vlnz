@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 🙋🏻‍♂ Hi, I'm Valentino!
-👨🏻‍💻 Frontend Developer sharing about my journey and learnings in tech<br>👨🏻‍🎓 Studied Computer Science at the University Bhinneka PGRI, Indonesia<br>🎨 Making videos about Computer Science, tech, design, and productivity on ![YouTube](https://youtube.com/@yezc)<br>💭 Currently learning about Framework and Design UI/UX!
+👨🏻‍💻 Frontend Developer sharing about my journey and learnings in tech<br>👨🏻‍🎓 Studied Computer Science at the University Bhinneka PGRI, Indonesia<br>🎨 Making videos about Computer Science, tech, design, and productivity on ![][YouTube](https://youtube.com/@yezc)<br>💭 Currently learning about Framework and Design UI/UX!
 
 
 ## 🌐 Socials:
