@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/OjXCWxFn0ccAAAAC/asuka-tanaka-asuka.gif">
+  <img src="https://media1.tenor.com/m/p-7UMDfCjNcAAAAC/akame-ga-kill.gif">
 </p>
 
 # 💫 About Me:
